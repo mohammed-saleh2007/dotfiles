@@ -1,0 +1,31 @@
+{
+  "languageserver": {
+    "javascript": {
+      "formatting": true
+    },
+    "typescript": {
+      "formatting": true
+    },
+    "html": {
+      "formatting": true
+    },
+    "php": {
+      "formatting": true
+    },
+    "css": {
+      "formatting": true
+    },
+    "c": {
+      "formatting": true
+    }
+  },
+  "suggest.enablePreselect": true,
+  "suggest.confirmKey": "<Tab>",
+  "suggest.acceptSelection": "e",
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/dist": true
+  }
+}
+
